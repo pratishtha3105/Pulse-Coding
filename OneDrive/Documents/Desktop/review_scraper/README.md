@@ -1,4 +1,4 @@
-(# Review Scraper)
+Review Scraper
 
 Small CLI tool to scrape product reviews from review sites (Capterra, G2).
 
