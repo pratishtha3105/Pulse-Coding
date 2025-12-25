@@ -55,4 +55,3 @@ Output: JSON file named `reviews_<company>_<source>.json` in the working directo
 - Add retry/backoff, per-site rate limiting, and optional headful mode for debugging.
 
 ---
-Created/updated by automation in workspace.
